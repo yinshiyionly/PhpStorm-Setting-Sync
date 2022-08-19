@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="随机" />
+      <item value="符号" />
+      <item value="分隔符" />
+      <item value="分割" />
       <item value="sync repository for phpstorm setting" />
       <item value="setting sync repository" />
       <item value="设置同步仓库" />
@@ -51,15 +55,11 @@
       <item value="is Auto Upgrade" />
       <item value="auto Upgrade Switch" />
       <item value="is auto upgrade" />
-      <item value="upgrade" />
-      <item value="升级" />
-      <item value="auto Update Switch" />
-      <item value="自动升级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="248" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
