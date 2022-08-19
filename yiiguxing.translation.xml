@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="文案" />
+      <item value="origin" />
       <item value="解析" />
       <item value="随机" />
       <item value="符号" />
@@ -53,13 +55,11 @@
       <item value="说明" />
       <item value="upload File From Stream" />
       <item value="主键" />
-      <item value="is Auto Upgrade" />
-      <item value="auto Upgrade Switch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="249" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="250" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
