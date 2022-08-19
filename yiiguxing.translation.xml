@@ -1,0 +1,75 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogX" value="-924" />
+    <option name="newTranslationDialogY" value="497" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="sync repository for phpstorm setting" />
+      <item value="setting sync repository" />
+      <item value="设置同步仓库" />
+      <item value="get Ext Json For Content" />
+      <item value="环境" />
+      <item value="提交代码审核" />
+      <item value="_get Latest Template" />
+      <item value="config" />
+      <item value="_get Last Template" />
+      <item value="handle Authorize" />
+      <item value="CONTENT VERSION PREFIX" />
+      <item value="digest" />
+      <item value="请先选择小程序" />
+      <item value="Content Mini Program Check Auth" />
+      <item value="Not found authorization MiniProgram" />
+      <item value="protocol" />
+      <item value="协议" />
+      <item value="audit Process Auth Id" />
+      <item value="_has Submit Audit" />
+      <item value="apply status" />
+      <item value="恢复" />
+      <item value="提交" />
+      <item value="重新" />
+      <item value="可以刷新" />
+      <item value="前端" />
+      <item value="third" />
+      <item value="第三" />
+      <item value="open Platform Account" />
+      <item value="version Info" />
+      <item value="uninstall" />
+      <item value="扩展" />
+      <item value="extra" />
+      <item value="TEMPLATE EXT JSON" />
+      <item value="成功" />
+      <item value="最新" />
+      <item value="world" />
+      <item value="Mini Program Upgrade" />
+      <item value="更新基本信息" />
+      <item value="update Base Info" />
+      <item value="convert Url" />
+      <item value="说明" />
+      <item value="upload File From Stream" />
+      <item value="主键" />
+      <item value="is Auto Upgrade" />
+      <item value="auto Upgrade Switch" />
+      <item value="is auto upgrade" />
+      <item value="upgrade" />
+      <item value="升级" />
+      <item value="auto Update Switch" />
+      <item value="自动升级" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
+        <entry key="ROMANIAN" value="2" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="SLOVENIAN" value="3" />
+        <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="SPANISH" value="1" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1660548162334" />
+  </component>
+</application>
