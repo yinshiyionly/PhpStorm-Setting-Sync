@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="SOBOT MESSAGE PUSH SUCCESS CODE" />
       <item value="文案" />
       <item value="origin" />
       <item value="解析" />
@@ -54,12 +55,11 @@
       <item value="convert Url" />
       <item value="说明" />
       <item value="upload File From Stream" />
-      <item value="主键" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
