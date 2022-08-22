@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="All the gateways have failed. You can get error details by `exception-&gt;getExceptions()" />
       <item value="撤回" />
       <item value="_get Category Data From Remote" />
       <item value="视频号" />
@@ -54,12 +55,11 @@
       <item value="extra" />
       <item value="TEMPLATE EXT JSON" />
       <item value="成功" />
-      <item value="最新" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
