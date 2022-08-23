@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="PARTING SYMBOL" />
+      <item value="GOODS CATEGORY PARTING SYMBOL" />
+      <item value="分割" />
       <item value="category Channel List" />
       <item value="All the gateways have failed. You can get error details by `exception-&gt;getExceptions()" />
       <item value="撤回" />
@@ -21,7 +24,6 @@
       <item value="随机" />
       <item value="符号" />
       <item value="分隔符" />
-      <item value="分割" />
       <item value="sync repository for phpstorm setting" />
       <item value="setting sync repository" />
       <item value="设置同步仓库" />
@@ -53,13 +55,11 @@
       <item value="version Info" />
       <item value="uninstall" />
       <item value="扩展" />
-      <item value="extra" />
-      <item value="TEMPLATE EXT JSON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
