@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="PARTING SYMBOL" />
       <item value="DOUDIAN trade" />
       <item value="上限" />
       <item value="submit Audit" />
@@ -14,7 +15,6 @@
       <item value="AUDIT STATUS REFUSED" />
       <item value="AUDIT STATUS UNHANDLED" />
       <item value="412 Precondition Failed" />
-      <item value="PARTING SYMBOL" />
       <item value="GOODS CATEGORY PARTING SYMBOL" />
       <item value="分割" />
       <item value="category Channel List" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
