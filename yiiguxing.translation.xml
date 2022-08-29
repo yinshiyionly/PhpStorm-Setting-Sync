@@ -5,8 +5,10 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="AUDIT STATUS PROCESSING" />
       <item value="AUDIT STATUS UNHANDLED" />
+      <item value="license" />
+      <item value="certificate" />
+      <item value="AUDIT STATUS PROCESSING" />
       <item value="审核中" />
       <item value="doing" />
       <item value="处理中" />
@@ -53,13 +55,11 @@
       <item value="CONTENT VERSION PREFIX" />
       <item value="digest" />
       <item value="请先选择小程序" />
-      <item value="Content Mini Program Check Auth" />
-      <item value="Not found authorization MiniProgram" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661146766080" />
+    <option name="lastTrimTime" value="1661738912165" />
   </component>
 </application>
