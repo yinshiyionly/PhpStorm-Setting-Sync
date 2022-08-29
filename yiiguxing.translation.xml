@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="重复" />
       <item value="NOT REQUIRED APPLY" />
       <item value="OPEN PLATFORM NOT REQUIRED" />
       <item value="无需申请" />
@@ -54,7 +55,6 @@
       <item value="提交代码审核" />
       <item value="_get Latest Template" />
       <item value="config" />
-      <item value="_get Last Template" />
     </histories>
     <option name="languageScores">
       <map>
