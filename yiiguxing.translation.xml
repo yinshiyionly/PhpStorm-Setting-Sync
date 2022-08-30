@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Fission Firends" />
+      <item value="Fission F" />
       <item value="market" />
       <item value="marketing" />
       <item value="营销" />
@@ -53,13 +55,11 @@
       <item value="origin" />
       <item value="解析" />
       <item value="随机" />
-      <item value="符号" />
-      <item value="分隔符" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
