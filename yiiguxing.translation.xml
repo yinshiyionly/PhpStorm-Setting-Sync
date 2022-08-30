@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="market" />
+      <item value="marketing" />
+      <item value="营销" />
+      <item value="营销活动" />
+      <item value="fission" />
       <item value="_恢复" />
       <item value="恢复" />
       <item value="唯一" />
@@ -50,16 +55,11 @@
       <item value="随机" />
       <item value="符号" />
       <item value="分隔符" />
-      <item value="sync repository for phpstorm setting" />
-      <item value="setting sync repository" />
-      <item value="设置同步仓库" />
-      <item value="get Ext Json For Content" />
-      <item value="环境" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="296" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
