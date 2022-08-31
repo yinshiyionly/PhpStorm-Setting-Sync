@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="新好友" />
+      <item value="new Friend" />
+      <item value="助力" />
+      <item value="高级" />
+      <item value="fission Welfare" />
       <item value="FISSION FOLLOW" />
       <item value="跟随" />
       <item value="FISSION FIXATE" />
@@ -50,16 +55,11 @@
       <item value="上限" />
       <item value="submit Audit" />
       <item value="apply" />
-      <item value="failed" />
-      <item value="AUDIT STATUS FAILED" />
-      <item value="412 Precondition Failed" />
-      <item value="GOODS CATEGORY PARTING SYMBOL" />
-      <item value="分割" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="309" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="314" />
+        <entry key="ENGLISH" value="314" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
