@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="生成海报" />
+      <item value="Generate Post" />
       <item value="Fission Firends" />
       <item value="Fission F" />
       <item value="market" />
@@ -53,13 +55,11 @@
       <item value="SOBOT MESSAGE PUSH SUCCESS CODE" />
       <item value="文案" />
       <item value="origin" />
-      <item value="解析" />
-      <item value="随机" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="299" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
