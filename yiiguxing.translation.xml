@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="popularize" />
       <item value="promote" />
       <item value="推广" />
       <item value="operate" />
@@ -54,12 +55,11 @@
       <item value="OPEN PLATFORM NOT REQUIRED" />
       <item value="无需申请" />
       <item value="OPEN PLATFORM NO APPLY" />
-      <item value="AUDIT STATUS UNHANDLED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
