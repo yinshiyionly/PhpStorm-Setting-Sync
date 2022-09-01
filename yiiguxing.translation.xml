@@ -5,13 +5,13 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fission Reward" />
       <item value="低价" />
       <item value="product One Of Sku" />
       <item value="get Fission Active Product" />
       <item value="service staff" />
       <item value="阶梯" />
       <item value="reward" />
-      <item value="fission Reward" />
       <item value="customer Tag" />
       <item value="store" />
       <item value="popularize" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="ENGLISH" value="339" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
