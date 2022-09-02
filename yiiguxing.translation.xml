@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="活动" />
+      <item value="active" />
       <item value="fission Reward Ladder" />
       <item value="群" />
       <item value="assist new friend" />
@@ -53,13 +55,11 @@
       <item value="生成海报" />
       <item value="Generate Post" />
       <item value="Fission Firends" />
-      <item value="Fission F" />
-      <item value="market" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="342" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
