@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="publish" />
       <item value="活动" />
       <item value="Active" />
       <item value="url does not specify a valid host name" />
@@ -54,12 +55,11 @@
       <item value="boon" />
       <item value="get Fission Weal" />
       <item value="Fission Friend" />
-      <item value="生成海报" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="ENGLISH" value="345" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661738912165" />
+    <option name="lastTrimTime" value="1662301256344" />
   </component>
 </application>
