@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="attachments Count" />
       <item value="publish" />
       <item value="活动" />
       <item value="Active" />
@@ -54,12 +55,11 @@
       <item value="get Fission Boon" />
       <item value="boon" />
       <item value="get Fission Weal" />
-      <item value="Fission Friend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SLOVENIAN" value="3" />
