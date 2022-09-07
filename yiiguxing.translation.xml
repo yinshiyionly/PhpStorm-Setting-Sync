@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="convert" />
+      <item value="covert" />
       <item value="unpublished" />
       <item value="层级" />
       <item value="助力" />
@@ -53,13 +55,11 @@
       <item value="customer" />
       <item value="拉新" />
       <item value="ACTIVE STATUS FINISHED" />
-      <item value="ACTIVE STATUS FINSHED" />
-      <item value="ACTIVE STATUS UNPUBLISHED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
-        <entry key="ENGLISH" value="362" />
+        <entry key="CHINESE" value="363" />
+        <entry key="ENGLISH" value="364" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
