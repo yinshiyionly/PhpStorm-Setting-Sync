@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="校验" />
       <item value="withdraw" />
       <item value="exact version constraints (2.0.2) should be avoided if the package follows semantic versioning" />
       <item value="Root composer.json requires hprosehprose-swoole dev-master -&gt; satisfiable by hprosehprose-swoole[dev-master]" />
@@ -54,11 +55,10 @@
       <item value="阶梯" />
       <item value="reward" />
       <item value="customer Tag" />
-      <item value="store" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
+        <entry key="CHINESE" value="371" />
         <entry key="ENGLISH" value="371" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
