@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="notify third fasteregister" />
+      <item value="register Handlers" />
       <item value="FISSION POSTER HEIGHT" />
       <item value="统计" />
       <item value="_check Reward" />
@@ -53,13 +55,11 @@
       <item value="低价" />
       <item value="product One Of Sku" />
       <item value="get Fission Active Product" />
-      <item value="service staff" />
-      <item value="阶梯" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="CHINESE" value="374" />
+        <entry key="ENGLISH" value="375" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662974606505" />
+    <option name="lastTrimTime" value="1663506001561" />
   </component>
 </application>
