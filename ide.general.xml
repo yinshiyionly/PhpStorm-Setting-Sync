@@ -4,5 +4,6 @@
     <entry key="ide.experimental.ui.inter.font" value="true" />
     <entry key="ide.experimental.ui.navbar.scroll" value="true" />
     <entry key="debugger.new.tool.window.layout" value="true" />
+    <entry key="documentation.show.toolbar" value="true" />
   </component>
 </application>
