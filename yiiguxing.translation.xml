@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="speed Up Audit" />
+      <item value="speedup Audit" />
       <item value="AUDIT STATUS PASSED" />
       <item value="AUDIT STATUS REFUSED" />
       <item value="AUDIT STATUS PROCESSING" />
@@ -53,13 +55,11 @@
       <item value="attachments Count" />
       <item value="publish" />
       <item value="活动" />
-      <item value="Active" />
-      <item value="url does not specify a valid host name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="383" />
+        <entry key="ENGLISH" value="384" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
