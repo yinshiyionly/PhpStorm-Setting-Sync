@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="convert" />
       <item value="Goods Spu Audit Callback" />
       <item value="Goods Product Receive Coupon" />
       <item value="OPEN PRODUCT RECEIVE COUPON" />
@@ -37,7 +38,6 @@
       <item value="Client" />
       <item value="step" />
       <item value="Invalid argument supplied for foreach()" />
-      <item value="convert" />
       <item value="covert" />
       <item value="unpublished" />
       <item value="层级" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
