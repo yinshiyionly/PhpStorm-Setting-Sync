@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="license" />
+      <item value="certificate" />
       <item value="恢复" />
       <item value="自动递增" />
       <item value="自动" />
@@ -28,7 +30,6 @@
       <item value="Identifier" />
       <item value="交易组件" />
       <item value="CALLBACK TYPE PRODUCT" />
-      <item value="license" />
       <item value="PARTING SYMBOL" />
       <item value="convert Image Link" />
       <item value="convert" />
@@ -54,12 +55,11 @@
       <item value="notify third fasteregister" />
       <item value="register Handlers" />
       <item value="FISSION POSTER HEIGHT" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
