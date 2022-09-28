@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="恢复" />
       <item value="自动递增" />
       <item value="自动" />
       <item value="递增" />
@@ -54,12 +55,11 @@
       <item value="register Handlers" />
       <item value="FISSION POSTER HEIGHT" />
       <item value="统计" />
-      <item value="_check Reward" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="413" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
