@@ -5,8 +5,9 @@
     <option name="newTranslationDialogY" value="497" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="license" />
       <item value="certificate" />
+      <item value="倒序" />
+      <item value="license" />
       <item value="恢复" />
       <item value="自动递增" />
       <item value="自动" />
@@ -54,12 +55,11 @@
       <item value="Connection refused" />
       <item value="notify third fasteregister" />
       <item value="register Handlers" />
-      <item value="FISSION POSTER HEIGHT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="416" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
