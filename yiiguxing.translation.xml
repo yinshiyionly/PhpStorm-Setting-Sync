@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-924" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="update" />
       <item value="certificate" />
       <item value="倒序" />
       <item value="license" />
@@ -53,12 +54,11 @@
       <item value="Intersect" />
       <item value="Connection refused" />
       <item value="notify third fasteregister" />
-      <item value="register Handlers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="415" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="CHINESE" value="416" />
+        <entry key="ENGLISH" value="417" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
