@@ -1,9 +1,8 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="-924" />
     <option name="newTranslationDialogY" value="497" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="certificate" />
       <item value="倒序" />
