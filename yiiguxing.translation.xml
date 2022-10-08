@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2719" />
     <option name="newTranslationDialogY" value="552" />
     <histories>
+      <item value="get Brand Audit Type" />
+      <item value="get Brand Register Type" />
       <item value="[EA] Nested ternary operator should not be used (maintainability issues)." />
       <item value="Extract this nested ternary operation into an independent statement." />
       <item value="Common Const" />
@@ -52,13 +54,11 @@
       <item value="明文" />
       <item value="decrypt" />
       <item value="encrypt" />
-      <item value="speed Up Audit" />
-      <item value="speedup Audit" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="ENGLISH" value="422" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
