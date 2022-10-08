@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2733" />
     <option name="newTranslationDialogY" value="350" />
     <histories>
+      <item value="Common Const" />
+      <item value="DEFAULT COMMON STATUS DELETE" />
       <item value="template Appid" />
       <item value="latest Draft Version" />
       <item value="Remove the useless trailing whitespaces at the end of this line." />
@@ -52,13 +54,11 @@
       <item value="speedup Audit" />
       <item value="AUDIT STATUS PASSED" />
       <item value="AUDIT STATUS REFUSED" />
-      <item value="AUDIT STATUS PROCESSING" />
-      <item value="AUDIT STATUS UNHANDLED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="417" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="420" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
