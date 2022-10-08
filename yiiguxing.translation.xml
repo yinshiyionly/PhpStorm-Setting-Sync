@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
-    <option name="newTranslationDialogX" value="-924" />
-    <option name="newTranslationDialogY" value="497" />
+    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogX" value="2733" />
+    <option name="newTranslationDialogY" value="350" />
     <histories>
+      <item value="template Appid" />
+      <item value="latest Draft Version" />
+      <item value="Remove the useless trailing whitespaces at the end of this line." />
       <item value="exists Or Condition" />
       <item value="条件" />
       <item value="update" />
@@ -51,14 +54,11 @@
       <item value="AUDIT STATUS REFUSED" />
       <item value="AUDIT STATUS PROCESSING" />
       <item value="AUDIT STATUS UNHANDLED" />
-      <item value="切换" />
-      <item value="前端" />
-      <item value="Intersect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664160302941" />
+    <option name="lastTrimTime" value="1665196502198" />
   </component>
 </application>
