@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
-    <option name="newTranslationDialogX" value="2733" />
-    <option name="newTranslationDialogY" value="350" />
+    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogX" value="2719" />
+    <option name="newTranslationDialogY" value="552" />
     <histories>
+      <item value="[EA] Nested ternary operator should not be used (maintainability issues)." />
+      <item value="Extract this nested ternary operation into an independent statement." />
       <item value="Common Const" />
       <item value="DEFAULT COMMON STATUS DELETE" />
       <item value="template Appid" />
@@ -52,12 +54,10 @@
       <item value="encrypt" />
       <item value="speed Up Audit" />
       <item value="speedup Audit" />
-      <item value="AUDIT STATUS PASSED" />
-      <item value="AUDIT STATUS REFUSED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
+        <entry key="CHINESE" value="421" />
         <entry key="ENGLISH" value="420" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
