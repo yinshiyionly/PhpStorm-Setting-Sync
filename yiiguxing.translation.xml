@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2719" />
     <option name="newTranslationDialogY" value="552" />
     <histories>
+      <item value="Graphic" />
       <item value="getpromote" />
       <item value="ORIGINAL" />
       <item value="promote" />
@@ -53,12 +54,11 @@
       <item value="CALLBACK TYPE PRODUCT" />
       <item value="PARTING SYMBOL" />
       <item value="convert Image Link" />
-      <item value="convert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="430" />
+        <entry key="ENGLISH" value="431" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
