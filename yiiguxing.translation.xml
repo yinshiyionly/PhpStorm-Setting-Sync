@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2719" />
     <option name="newTranslationDialogY" value="552" />
     <histories>
+      <item value="ORIGINAL" />
+      <item value="promote" />
       <item value="Open Platform" />
       <item value="Openplat Form" />
       <item value="check Resource" />
@@ -52,13 +54,11 @@
       <item value="convert Image Link" />
       <item value="convert" />
       <item value="Goods Spu Audit Callback" />
-      <item value="Goods Product Receive Coupon" />
-      <item value="OPEN PRODUCT RECEIVE COUPON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
