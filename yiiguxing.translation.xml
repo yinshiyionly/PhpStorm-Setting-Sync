@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2719" />
     <option name="newTranslationDialogY" value="552" />
     <histories>
+      <item value="payment Record" />
       <item value="async" />
       <item value="Drp Remittance" />
       <item value="typo" />
@@ -53,7 +54,6 @@
       <item value="request Raw" />
       <item value="deprecated" />
       <item value="Trying to access array offset on value of type bool" />
-      <item value="Identifier" />
     </histories>
     <option name="languageScores">
       <map>
