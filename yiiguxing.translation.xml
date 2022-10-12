@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2719" />
     <option name="newTranslationDialogY" value="552" />
     <histories>
+      <item value="attempt" />
       <item value="delete And Release" />
       <item value="定时售卖" />
       <item value="定时" />
@@ -53,12 +54,11 @@
       <item value="BRAND MANAGEMENT TYPE OWN" />
       <item value="自有" />
       <item value="BRAND MANAGEMENT TYPE OWNER" />
-      <item value="sales" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="436" />
-        <entry key="ENGLISH" value="437" />
+        <entry key="CHINESE" value="437" />
+        <entry key="ENGLISH" value="438" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
