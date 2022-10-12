@@ -4,10 +4,12 @@
     <option name="newTranslationDialogX" value="2719" />
     <option name="newTranslationDialogY" value="552" />
     <histories>
+      <item value="Goods Timing Sale" />
+      <item value="定时" />
+      <item value="Goods Timed Sale" />
       <item value="attempt" />
       <item value="delete And Release" />
       <item value="定时售卖" />
-      <item value="定时" />
       <item value="售卖" />
       <item value="payment Record" />
       <item value="async" />
@@ -52,13 +54,11 @@
       <item value="代理" />
       <item value="OWN" />
       <item value="BRAND MANAGEMENT TYPE OWN" />
-      <item value="自有" />
-      <item value="BRAND MANAGEMENT TYPE OWNER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="439" />
+        <entry key="ENGLISH" value="440" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
