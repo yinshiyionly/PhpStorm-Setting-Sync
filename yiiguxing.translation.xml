@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2719" />
     <option name="newTranslationDialogY" value="552" />
     <histories>
+      <item value="get Flag Certificates Type" />
       <item value="Goods Timing Sale" />
       <item value="定时" />
       <item value="Goods Timed Sale" />
@@ -53,12 +54,11 @@
       <item value="proxy" />
       <item value="代理" />
       <item value="OWN" />
-      <item value="BRAND MANAGEMENT TYPE OWN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="439" />
-        <entry key="ENGLISH" value="440" />
+        <entry key="CHINESE" value="440" />
+        <entry key="ENGLISH" value="441" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
