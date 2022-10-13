@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2234" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="有效" />
       <item value="Move arguments &quot;key&quot; after arguments without default value Remove the unused function parameter &quot;key&quot;" />
       <item value="ERR wrong number of arguments for 'zrangebyscore' command&quot;" />
       <item value="timestamp" />
@@ -53,12 +54,11 @@
       <item value="自动" />
       <item value="递增" />
       <item value="进口" />
-      <item value="Brand Commodity Origin Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="446" />
-        <entry key="ENGLISH" value="446" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="447" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
