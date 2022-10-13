@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="2234" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="is Special" />
+      <item value="format Category By Array" />
+      <item value="format Category Be Tree" />
       <item value="Category List For Create Goods" />
       <item value="items For Create Goods" />
       <item value="有效" />
@@ -51,14 +54,11 @@
       <item value="certificate" />
       <item value="倒序" />
       <item value="license" />
-      <item value="恢复" />
-      <item value="自动递增" />
-      <item value="自动" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="451" />
+        <entry key="ENGLISH" value="452" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
