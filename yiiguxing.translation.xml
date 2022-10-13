@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
-    <option name="newTranslationDialogX" value="2719" />
-    <option name="newTranslationDialogY" value="552" />
+    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogX" value="2234" />
+    <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="Move arguments &quot;key&quot; after arguments without default value Remove the unused function parameter &quot;key&quot;" />
+      <item value="ERR wrong number of arguments for 'zrangebyscore' command&quot;" />
       <item value="timestamp" />
       <item value="good Id" />
       <item value="SHOP GOODS TIMING SALE" />
@@ -52,13 +54,11 @@
       <item value="递增" />
       <item value="进口" />
       <item value="Brand Commodity Origin Type" />
-      <item value="海外" />
-      <item value="国内" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="444" />
-        <entry key="ENGLISH" value="445" />
+        <entry key="CHINESE" value="446" />
+        <entry key="ENGLISH" value="446" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665196502198" />
+    <option name="lastTrimTime" value="1665631709973" />
   </component>
 </application>
