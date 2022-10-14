@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2234" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="Closure" />
       <item value="Method and function names should comply with a naming convention" />
       <item value="scene" />
       <item value="is Special" />
@@ -53,12 +54,11 @@
       <item value="exists Or Condition" />
       <item value="条件" />
       <item value="update" />
-      <item value="certificate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="453" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="ENGLISH" value="454" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
