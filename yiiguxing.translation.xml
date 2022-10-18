@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="576" />
-    <option name="newTranslationDialogX" value="2234" />
-    <option name="newTranslationDialogY" value="288" />
+    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogX" value="813" />
+    <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="[EA] This condition execution costs less than the previous one." />
       <item value="SHOP GOODS PROMOTE" />
       <item value="goods Exists" />
       <item value="Closure" />
@@ -53,11 +54,10 @@
       <item value="template Appid" />
       <item value="latest Draft Version" />
       <item value="Remove the useless trailing whitespaces at the end of this line." />
-      <item value="exists Or Condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="455" />
+        <entry key="CHINESE" value="456" />
         <entry key="ENGLISH" value="456" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665631709973" />
+    <option name="lastTrimTime" value="1666073153618" />
   </component>
 </application>
