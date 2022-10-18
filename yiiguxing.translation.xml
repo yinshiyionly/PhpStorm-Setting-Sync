@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="flag Certificates Type Cn" />
       <item value="[EA] This condition execution costs less than the previous one." />
       <item value="SHOP GOODS PROMOTE" />
       <item value="goods Exists" />
@@ -53,12 +54,11 @@
       <item value="DEFAULT COMMON STATUS DELETE" />
       <item value="template Appid" />
       <item value="latest Draft Version" />
-      <item value="Remove the useless trailing whitespaces at the end of this line." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="456" />
-        <entry key="ENGLISH" value="456" />
+        <entry key="ENGLISH" value="457" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
