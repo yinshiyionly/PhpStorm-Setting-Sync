@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="被除数" />
       <item value="on shelves" />
       <item value="COMPONENT TYPE CAROUSE IMG" />
       <item value="flag Certificates Type Cn" />
@@ -53,11 +54,10 @@
       <item value="[EA] Nested ternary operator should not be used (maintainability issues)." />
       <item value="Extract this nested ternary operation into an independent statement." />
       <item value="Common Const" />
-      <item value="DEFAULT COMMON STATUS DELETE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
+        <entry key="CHINESE" value="459" />
         <entry key="ENGLISH" value="459" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
