@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="on shelves" />
       <item value="COMPONENT TYPE CAROUSE IMG" />
       <item value="flag Certificates Type Cn" />
       <item value="[EA] This condition execution costs less than the previous one." />
@@ -53,12 +54,11 @@
       <item value="Extract this nested ternary operation into an independent statement." />
       <item value="Common Const" />
       <item value="DEFAULT COMMON STATUS DELETE" />
-      <item value="template Appid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="458" />
+        <entry key="ENGLISH" value="459" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
