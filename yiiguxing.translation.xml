@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="destroy" />
+      <item value="destory" />
+      <item value="SHOP PAGE NOT PUBLISH" />
       <item value="scratches" />
       <item value="get Shop Page Fixed Component" />
       <item value="category List For Create Goods" />
@@ -51,14 +54,11 @@
       <item value="getpromote" />
       <item value="ORIGINAL" />
       <item value="Open Platform" />
-      <item value="Openplat Form" />
-      <item value="check Resource" />
-      <item value="This minor update brings several bug fixes and quality-of-life improvements. Here are just a few of them: Added: Support for :deep style selector in Vue 2.6 + projects WEB-56669 Fixed: Most of the actions disappeared from the Search everywhere IDEA-301845 Fixed: Right-click context menu and main menu not showing occasionally IDEA-300772" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="467" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
