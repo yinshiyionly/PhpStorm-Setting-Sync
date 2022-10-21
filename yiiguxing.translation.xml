@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="shop Page" />
       <item value="Cartesian Product" />
       <item value="被除数" />
       <item value="on shelves" />
@@ -53,12 +54,11 @@
       <item value="get Brand Audit Type" />
       <item value="get Brand Register Type" />
       <item value="[EA] Nested ternary operator should not be used (maintainability issues)." />
-      <item value="Extract this nested ternary operation into an independent statement." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
