@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="MICRO" />
       <item value="destroy" />
       <item value="destory" />
       <item value="SHOP PAGE NOT PUBLISH" />
@@ -53,12 +54,11 @@
       <item value="Graphic" />
       <item value="getpromote" />
       <item value="ORIGINAL" />
-      <item value="Open Platform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="473" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="474" />
+        <entry key="ENGLISH" value="475" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666073153618" />
+    <option name="lastTrimTime" value="1666596561861" />
   </component>
 </application>
