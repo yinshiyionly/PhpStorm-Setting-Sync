@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="SHOP PAGE OTHER OUTSIDE MINI PATH" />
+      <item value="自己以外" />
+      <item value="SHOP PAGE OTHER SELF MINI PATH" />
+      <item value="优惠券" />
+      <item value="营销" />
+      <item value="SHOP PAGE MARKET" />
       <item value="信号" />
       <item value="SINGLE" />
       <item value="SHOP PAGE GOODS SINGLE" />
@@ -48,17 +54,11 @@
       <item value="SHOP GOODS" />
       <item value="get Flag Certificates Type" />
       <item value="Goods Timing Sale" />
-      <item value="定时" />
-      <item value="Goods Timed Sale" />
-      <item value="attempt" />
-      <item value="delete And Release" />
-      <item value="定时售卖" />
-      <item value="售卖" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="481" />
-        <entry key="ENGLISH" value="481" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="485" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
