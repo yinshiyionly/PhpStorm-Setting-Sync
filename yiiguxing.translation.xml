@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="信号" />
+      <item value="SINGLE" />
+      <item value="SHOP PAGE GOODS SINGLE" />
+      <item value="children" />
       <item value="params Rebuild" />
       <item value="详情请见配置文件" />
       <item value="clash open authentication password verify" />
@@ -50,15 +54,11 @@
       <item value="delete And Release" />
       <item value="定时售卖" />
       <item value="售卖" />
-      <item value="payment Record" />
-      <item value="async" />
-      <item value="Drp Remittance" />
-      <item value="typo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="481" />
+        <entry key="ENGLISH" value="481" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
