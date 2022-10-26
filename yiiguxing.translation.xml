@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="duplicates" />
       <item value="SHOP PAGE OTHER OUTSIDE MINI PATH" />
       <item value="自己以外" />
       <item value="SHOP PAGE OTHER SELF MINI PATH" />
@@ -53,12 +54,11 @@
       <item value="SHOP GOODS TIMING SALE" />
       <item value="SHOP GOODS" />
       <item value="get Flag Certificates Type" />
-      <item value="Goods Timing Sale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="484" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="CHINESE" value="485" />
+        <entry key="ENGLISH" value="486" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
