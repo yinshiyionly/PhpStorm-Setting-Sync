@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="doudian order sms record" />
       <item value="page Components" />
       <item value="other outside mini" />
       <item value="duplicates" />
@@ -53,12 +54,11 @@
       <item value="ERR wrong number of arguments for 'zrangebyscore' command&quot;" />
       <item value="timestamp" />
       <item value="good Id" />
-      <item value="SHOP GOODS TIMING SALE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="489" />
+        <entry key="ENGLISH" value="490" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
