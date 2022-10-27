@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="page Components" />
       <item value="other outside mini" />
       <item value="duplicates" />
       <item value="SHOP PAGE OTHER OUTSIDE MINI PATH" />
@@ -53,12 +54,11 @@
       <item value="timestamp" />
       <item value="good Id" />
       <item value="SHOP GOODS TIMING SALE" />
-      <item value="SHOP GOODS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
