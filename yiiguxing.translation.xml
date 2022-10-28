@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="物流" />
       <item value="primary Id" />
       <item value="status" />
       <item value="state" />
@@ -53,11 +54,10 @@
       <item value="Category List For Create Goods" />
       <item value="items For Create Goods" />
       <item value="有效" />
-      <item value="Move arguments &quot;key&quot; after arguments without default value Remove the unused function parameter &quot;key&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="492" />
+        <entry key="CHINESE" value="493" />
         <entry key="ENGLISH" value="493" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
