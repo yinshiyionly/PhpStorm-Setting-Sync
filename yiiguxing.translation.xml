@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="COMMON ERROR MESSAGE OPERATE FAILED" />
+      <item value="COMMON ERROR MESSAGE NOT FOUND RESOURCE" />
       <item value="语法提示" />
       <item value="COMMON ERROR NOT FOUND RESOURCE MESSAGE" />
       <item value="COMMON ERROR NOT FOUND RESOURCE" />
@@ -52,13 +54,11 @@
       <item value="scratches" />
       <item value="get Shop Page Fixed Component" />
       <item value="category List For Create Goods" />
-      <item value="set Home Page" />
-      <item value="主页" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="ENGLISH" value="509" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
