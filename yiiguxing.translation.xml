@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="carousel Img" />
       <item value="手动" />
       <item value="EXPRESS SUBSCRIBE" />
       <item value="EXPRESS LOGITICS" />
@@ -53,12 +54,11 @@
       <item value="SHOP GOODS PROMOTE" />
       <item value="goods Exists" />
       <item value="Closure" />
-      <item value="Method and function names should comply with a naming convention" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="499" />
+        <entry key="ENGLISH" value="500" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666596561861" />
+    <option name="lastTrimTime" value="1667186432844" />
   </component>
 </application>
