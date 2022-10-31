@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="手动" />
       <item value="EXPRESS SUBSCRIBE" />
       <item value="EXPRESS LOGITICS" />
       <item value="status Callback" />
@@ -53,11 +54,10 @@
       <item value="goods Exists" />
       <item value="Closure" />
       <item value="Method and function names should comply with a naming convention" />
-      <item value="scene" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
+        <entry key="CHINESE" value="499" />
         <entry key="ENGLISH" value="499" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
