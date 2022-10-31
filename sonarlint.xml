@@ -7,6 +7,11 @@
             <Rule active="false" key="php:S113" />
           </value>
         </entry>
+        <entry key="php:S1135">
+          <value>
+            <Rule active="false" key="php:S1135" />
+          </value>
+        </entry>
         <entry key="php:S1757">
           <value>
             <Rule key="php:S1757" />
@@ -21,6 +26,7 @@
     </option>
     <rules>
       <Rule active="false" key="php:S113" />
+      <Rule active="false" key="php:S1135" />
       <Rule active="false" key="php:S1779" />
       <Rule key="php:S1757" />
     </rules>

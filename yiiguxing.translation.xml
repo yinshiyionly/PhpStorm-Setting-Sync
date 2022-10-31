@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="attrname" />
+      <item value="value ID" />
       <item value="click Event Data" />
       <item value="carousel Img" />
       <item value="手动" />
@@ -52,13 +54,11 @@
       <item value="COMPONENT TYPE CAROUSE IMG" />
       <item value="flag Certificates Type Cn" />
       <item value="[EA] This condition execution costs less than the previous one." />
-      <item value="SHOP GOODS PROMOTE" />
-      <item value="goods Exists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="501" />
+        <entry key="ENGLISH" value="502" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
