@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="cube Url" />
+      <item value="page List Parent" />
       <item value="stock id" />
       <item value="on shelves" />
       <item value="Refactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed." />
@@ -52,13 +54,11 @@
       <item value="优惠券" />
       <item value="营销" />
       <item value="SHOP PAGE MARKET" />
-      <item value="信号" />
-      <item value="SINGLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="520" />
+        <entry key="ENGLISH" value="521" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
