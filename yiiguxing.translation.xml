@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="on shelves" />
       <item value="Refactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed." />
       <item value="shop Page Setting" />
       <item value="重新构建" />
@@ -53,12 +54,11 @@
       <item value="信号" />
       <item value="SINGLE" />
       <item value="SHOP PAGE GOODS SINGLE" />
-      <item value="children" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="517" />
+        <entry key="ENGLISH" value="518" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
