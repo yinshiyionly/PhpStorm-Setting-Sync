@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="SonarLint: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed." />
       <item value="allow adding otherwise ignored file" />
       <item value="The following paths are ignored by one of your .gitignore files:" />
       <item value="goods Image" />
@@ -53,11 +54,10 @@
       <item value="EXPRESS SUBSCRIBE" />
       <item value="EXPRESS LOGITICS" />
       <item value="status Callback" />
-      <item value="物流" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="535" />
+        <entry key="CHINESE" value="536" />
         <entry key="ENGLISH" value="536" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
