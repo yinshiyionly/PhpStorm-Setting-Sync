@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="重复" />
+      <item value="重复输出" />
       <item value="CAROUSE IMG" />
       <item value="components" />
       <item value="component" />
@@ -52,13 +54,11 @@
       <item value="page Setting" />
       <item value="attrname" />
       <item value="value ID" />
-      <item value="click Event Data" />
-      <item value="carousel Img" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="538" />
-        <entry key="ENGLISH" value="539" />
+        <entry key="CHINESE" value="540" />
+        <entry key="ENGLISH" value="540" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
