@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="disabled Url" />
+      <item value="selected Url" />
+      <item value="可以使用" />
+      <item value="is Enable" />
       <item value="重复" />
       <item value="重复输出" />
       <item value="CAROUSE IMG" />
@@ -50,15 +54,11 @@
       <item value="COMMON ERROR NOT FOUND RESOURCE" />
       <item value="COMMON ERROR PARAMS MISSING MESSAGE" />
       <item value="设置" />
-      <item value="setting" />
-      <item value="page Setting" />
-      <item value="attrname" />
-      <item value="value ID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="540" />
-        <entry key="ENGLISH" value="540" />
+        <entry key="CHINESE" value="542" />
+        <entry key="ENGLISH" value="543" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
