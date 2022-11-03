@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="Cannot use object of type stdClass as array" />
       <item value="SHOP RESOURCE REPLACE VARIABLE" />
       <item value="变量" />
       <item value="COSV 5_SCHEME" />
@@ -53,12 +54,11 @@
       <item value="MCRIO" />
       <item value="自定义" />
       <item value="Enable Powerlevel10k instant prompt. Should stay close to the top of ~.zshrc" />
-      <item value="COMMON ERROR MESSAGE OPERATE FAILED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="548" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="549" />
+        <entry key="ENGLISH" value="550" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
