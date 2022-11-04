@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="[EA] Null pointer exception may occur here." />
       <item value="[EA] 'Goods' and 'HasEvents' define the same property (dispatchesEvents)." />
       <item value="available stock" />
       <item value="clipboard" />
@@ -53,11 +54,10 @@
       <item value="_get Condition" />
       <item value="re Build Params" />
       <item value="_re Build Params" />
-      <item value="_rebuild Params" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="552" />
+        <entry key="CHINESE" value="553" />
         <entry key="ENGLISH" value="552" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
