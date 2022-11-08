@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="proxy password" />
       <item value="convert Option" />
       <item value="Save a new model and return the instance." />
       <item value="[EA] Null pointer exception may occur here." />
@@ -53,12 +54,11 @@
       <item value="shop Page Setting" />
       <item value="重新构建" />
       <item value="重新" />
-      <item value="_get Condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="553" />
-        <entry key="ENGLISH" value="554" />
+        <entry key="CHINESE" value="554" />
+        <entry key="ENGLISH" value="555" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
