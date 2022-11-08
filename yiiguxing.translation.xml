@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="加密" />
       <item value="external" />
       <item value="message internal record" />
       <item value="内部" />
@@ -53,11 +54,10 @@
       <item value="check" />
       <item value="un Check" />
       <item value="Un Check" />
-      <item value="cube Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="560" />
+        <entry key="CHINESE" value="561" />
         <entry key="ENGLISH" value="561" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
