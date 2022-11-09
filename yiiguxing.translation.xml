@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="COMPONENT USER TOOLS ICON DATA ADDRESS" />
+      <item value="COMPONENT USER TOOLS ICON DATA CAR" />
       <item value="SonarLint: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed." />
       <item value="message internal record" />
       <item value="加密" />
@@ -52,13 +54,11 @@
       <item value="query string" />
       <item value="get Promote Page Path" />
       <item value="_get Promote Page Path" />
-      <item value="check" />
-      <item value="un Check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="562" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="CHINESE" value="563" />
+        <entry key="ENGLISH" value="564" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
