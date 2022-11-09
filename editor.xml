@@ -1,6 +1,7 @@
 <application>
   <component name="DaemonCodeAnalyzerSettings" profile="Project Default" />
   <component name="EditorSettings">
+    <option name="SHOW_INTENTION_PREVIEW" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
 </application>
