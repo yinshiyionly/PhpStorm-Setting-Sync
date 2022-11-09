@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="SonarLint: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed." />
       <item value="message internal record" />
       <item value="加密" />
       <item value="external" />
@@ -53,11 +54,10 @@
       <item value="_get Promote Page Path" />
       <item value="check" />
       <item value="un Check" />
-      <item value="Un Check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="561" />
+        <entry key="CHINESE" value="562" />
         <entry key="ENGLISH" value="562" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
