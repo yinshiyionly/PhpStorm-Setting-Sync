@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="时长" />
+      <item value="后缀" />
       <item value="Move the closing parenthesis on the next line." />
       <item value="check Component" />
       <item value="COMPONENT USER TOOLS ICON DATA ADDRESS" />
@@ -52,13 +54,11 @@
       <item value="Serialization of 'Closure' is not allowed" />
       <item value="query" />
       <item value="query Name" />
-      <item value="query String" />
-      <item value="query string" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="565" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="CHINESE" value="567" />
+        <entry key="ENGLISH" value="567" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
