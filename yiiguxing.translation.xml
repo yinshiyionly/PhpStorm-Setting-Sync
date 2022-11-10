@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="the &quot;user&quot; directive makes sense only if the master process runs with super-user privileges, ignored in etcnginxnginx-scrm-inner.conf:1" />
       <item value="_systemctl_unit_state: bad set of keyvalue pairs for associative array" />
       <item value="Functions should not have too many lines of code" />
       <item value="时长" />
@@ -53,12 +54,11 @@
       <item value="Define and throw a dedicated exception instead of using a generic one." />
       <item value="We Chat Promote" />
       <item value="Promote" />
-      <item value="Serialization of 'Closure' is not allowed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="568" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="ENGLISH" value="569" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
