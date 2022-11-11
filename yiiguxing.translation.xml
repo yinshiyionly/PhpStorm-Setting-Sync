@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <histories>
+      <item value="verify Resource URL" />
+      <item value="verify Resouce" />
       <item value="COMPONENT TYPE GROUP" />
       <item value="the &quot;user&quot; directive makes sense only if the master process runs with super-user privileges, ignored in etcnginxnginx-scrm-inner.conf:1" />
       <item value="_systemctl_unit_state: bad set of keyvalue pairs for associative array" />
@@ -52,13 +54,11 @@
       <item value="allow adding otherwise ignored file" />
       <item value="The following paths are ignored by one of your .gitignore files:" />
       <item value="goods Image" />
-      <item value="Define and throw a dedicated exception instead of using a generic one." />
-      <item value="We Chat Promote" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="569" />
-        <entry key="ENGLISH" value="570" />
+        <entry key="CHINESE" value="571" />
+        <entry key="ENGLISH" value="572" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
