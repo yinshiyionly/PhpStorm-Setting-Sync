@@ -1,6 +1,8 @@
 <application>
   <component name="RainbowSettings">
     <option name="bigFilesLinesThreshold" value="2000" />
-    <option name="version" value="6.26" />
+    <option name="enableRainbowVariables" value="true" />
+    <option name="rainbowVariablesOptionShowed" value="true" />
+    <option name="version" value="2022.3.3.1-ij" />
   </component>
 </application>
