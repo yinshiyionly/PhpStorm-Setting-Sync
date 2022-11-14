@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="81" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] This closure can be declared as static (better scoping; in some cases can improve performance)." />
       <item value="regular" />
       <item value="正则表达式" />
       <item value="pattern" />
@@ -54,11 +55,10 @@
       <item value="selected Url" />
       <item value="可以使用" />
       <item value="is Enable" />
-      <item value="重复输出" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="578" />
+        <entry key="CHINESE" value="579" />
         <entry key="ENGLISH" value="579" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
