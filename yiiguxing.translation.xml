@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="2850" />
     <option name="newTranslationDialogY" value="81" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed." />
       <item value="config" />
       <item value="get Config Or Value" />
       <item value="duplicate" />
@@ -54,11 +55,10 @@
       <item value="components" />
       <item value="component" />
       <item value="components List" />
-      <item value="SonarLint: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="575" />
+        <entry key="CHINESE" value="576" />
         <entry key="ENGLISH" value="576" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
