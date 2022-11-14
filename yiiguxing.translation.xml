@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="81" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="config" />
+      <item value="get Config Or Value" />
       <item value="duplicate" />
       <item value="重复" />
       <item value="verify Resource URL" />
@@ -53,13 +55,11 @@
       <item value="component" />
       <item value="components List" />
       <item value="SonarLint: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed." />
-      <item value="allow adding otherwise ignored file" />
-      <item value="The following paths are ignored by one of your .gitignore files:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="573" />
-        <entry key="ENGLISH" value="573" />
+        <entry key="CHINESE" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667786260121" />
+    <option name="lastTrimTime" value="1668390502100" />
   </component>
 </application>
