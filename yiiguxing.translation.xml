@@ -1,10 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="564" />
-    <option name="newTranslationDialogX" value="2850" />
-    <option name="newTranslationDialogY" value="81" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] This condition execution costs less than the previous one." />
       <item value="FISSION HELP JOIN" />
       <item value="助力裂变" />
       <item value="[EA] This closure can be declared as static (better scoping; in some cases can improve performance)." />
@@ -54,11 +53,10 @@
       <item value="convert" />
       <item value="flag" />
       <item value="disabled Url" />
-      <item value="selected Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="580" />
+        <entry key="CHINESE" value="581" />
         <entry key="ENGLISH" value="581" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
