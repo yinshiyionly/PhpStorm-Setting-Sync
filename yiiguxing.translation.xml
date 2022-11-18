@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="562" />
-    <option name="newTranslationDialogX" value="813" />
-    <option name="newTranslationDialogY" value="448" />
-    <option name="pinTranslationDialog" value="true" />
+    <option name="newTranslationDialogX" value="873" />
+    <option name="newTranslationDialogY" value="492" />
     <histories>
+      <item value="customer Code" />
+      <item value="一客一码" />
       <item value="environment" />
       <item value="环境" />
       <item value="[EA] This condition execution costs less than the previous one." />
@@ -53,13 +54,11 @@
       <item value="SHOP RESOURCE REPLACE VARIABLE" />
       <item value="变量" />
       <item value="COSV 5_SCHEME" />
-      <item value="array To Json And Handle Url" />
-      <item value="convert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="583" />
-        <entry key="ENGLISH" value="583" />
+        <entry key="CHINESE" value="584" />
+        <entry key="ENGLISH" value="585" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
