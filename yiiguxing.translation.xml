@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="492" />
     <histories>
+      <item value="present" />
       <item value="receive Record" />
       <item value="customer Code" />
       <item value="一客一码" />
@@ -53,12 +54,11 @@
       <item value="[EA] settingValue['flag'] is immediately overridden, perhaps it was intended to use 'else' here." />
       <item value="Cannot use object of type stdClass as array" />
       <item value="SHOP RESOURCE REPLACE VARIABLE" />
-      <item value="变量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="585" />
-        <entry key="ENGLISH" value="586" />
+        <entry key="CHINESE" value="587" />
+        <entry key="ENGLISH" value="588" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668390502100" />
+    <option name="lastTrimTime" value="1668996958516" />
   </component>
 </application>
