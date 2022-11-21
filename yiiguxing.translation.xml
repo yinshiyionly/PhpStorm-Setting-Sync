@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="492" />
     <histories>
+      <item value="合成" />
       <item value="quality" />
       <item value="HEIGHT" />
       <item value="Image source not readable" />
@@ -53,11 +54,10 @@
       <item value="[EA] Null pointer exception may occur here." />
       <item value="[EA] 'Goods' and 'HasEvents' define the same property (dispatchesEvents)." />
       <item value="available stock" />
-      <item value="clipboard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="590" />
+        <entry key="CHINESE" value="591" />
         <entry key="ENGLISH" value="591" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
