@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="492" />
     <histories>
+      <item value="合成" />
       <item value="external User Id" />
       <item value="provider Suite Id" />
       <item value="PushCustomerWelcomeMessage has been attempted too many times or run too long. The job may have previously timed out" />
@@ -14,7 +15,6 @@
       <item value="Discovered" />
       <item value="字段" />
       <item value="staff" />
-      <item value="合成" />
       <item value="quality" />
       <item value="HEIGHT" />
       <item value="Image source not readable" />
@@ -57,7 +57,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="597" />
+        <entry key="CHINESE" value="598" />
         <entry key="ENGLISH" value="598" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
