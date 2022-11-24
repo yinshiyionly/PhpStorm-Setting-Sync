@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="request Raw" />
       <item value="get Media Id By Image" />
       <item value="create Format From Toolbar" />
       <item value="count" />
@@ -54,12 +55,11 @@
       <item value="Move the closing parenthesis on the next line." />
       <item value="check Component" />
       <item value="COMPONENT USER TOOLS ICON DATA ADDRESS" />
-      <item value="COMPONENT USER TOOLS ICON DATA CAR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="601" />
-        <entry key="ENGLISH" value="602" />
+        <entry key="CHINESE" value="602" />
+        <entry key="ENGLISH" value="603" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
