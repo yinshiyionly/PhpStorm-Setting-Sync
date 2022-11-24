@@ -3,7 +3,10 @@
     <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="492" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="count" />
+      <item value="统计" />
       <item value="Request received" />
       <item value="合成" />
       <item value="external User Id" />
@@ -52,13 +55,11 @@
       <item value="COMPONENT USER TOOLS ICON DATA CAR" />
       <item value="SonarLint: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed." />
       <item value="message internal record" />
-      <item value="加密" />
-      <item value="external" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="598" />
-        <entry key="ENGLISH" value="599" />
+        <entry key="CHINESE" value="600" />
+        <entry key="ENGLISH" value="600" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
