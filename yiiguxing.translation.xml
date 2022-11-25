@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="usable" />
+      <item value="present" />
+      <item value="coupon" />
       <item value="声明" />
       <item value="关键字" />
       <item value="员工" />
@@ -29,7 +32,6 @@
       <item value="quality" />
       <item value="HEIGHT" />
       <item value="Image source not readable" />
-      <item value="present" />
       <item value="receive Record" />
       <item value="customer Code" />
       <item value="一客一码" />
@@ -53,13 +55,11 @@
       <item value="COMPONENT TYPE GROUP" />
       <item value="the &quot;user&quot; directive makes sense only if the master process runs with super-user privileges, ignored in etcnginxnginx-scrm-inner.conf:1" />
       <item value="_systemctl_unit_state: bad set of keyvalue pairs for associative array" />
-      <item value="Functions should not have too many lines of code" />
-      <item value="时长" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="606" />
-        <entry key="ENGLISH" value="606" />
+        <entry key="CHINESE" value="608" />
+        <entry key="ENGLISH" value="609" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
