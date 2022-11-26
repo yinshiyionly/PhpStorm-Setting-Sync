@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="492" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="赋值" />
       <item value="usable" />
       <item value="present" />
       <item value="coupon" />
@@ -54,11 +55,10 @@
       <item value="verify Resouce" />
       <item value="COMPONENT TYPE GROUP" />
       <item value="the &quot;user&quot; directive makes sense only if the master process runs with super-user privileges, ignored in etcnginxnginx-scrm-inner.conf:1" />
-      <item value="_systemctl_unit_state: bad set of keyvalue pairs for associative array" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="608" />
+        <entry key="CHINESE" value="609" />
         <entry key="ENGLISH" value="609" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668996958516" />
+    <option name="lastTrimTime" value="1669436693675" />
   </component>
 </application>
