@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="562" />
-    <option name="newTranslationDialogX" value="873" />
-    <option name="newTranslationDialogY" value="492" />
+    <option name="newTranslationDialogWidth" value="560" />
+    <option name="newTranslationDialogX" value="739" />
+    <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Class &quot;ChannelCodeCustomerRepository&quot; has 22 methods, which is greater than 20 authorized. Split it into smaller classes." />
       <item value="赋值" />
       <item value="usable" />
       <item value="present" />
@@ -54,11 +55,10 @@
       <item value="verify Resource URL" />
       <item value="verify Resouce" />
       <item value="COMPONENT TYPE GROUP" />
-      <item value="the &quot;user&quot; directive makes sense only if the master process runs with super-user privileges, ignored in etcnginxnginx-scrm-inner.conf:1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="609" />
+        <entry key="CHINESE" value="610" />
         <entry key="ENGLISH" value="609" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
