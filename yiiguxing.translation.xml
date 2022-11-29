@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="560" />
+    <option name="newTranslationDialogWidth" value="558" />
     <option name="newTranslationDialogX" value="739" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="INITIALIZE INTEGER ZERO" />
+      <item value="initialize" />
+      <item value="初始化" />
+      <item value="BASE_64_IMAGE PREFIX" />
       <item value="boolean" />
       <item value="Class &quot;ChannelCodeCustomerRepository&quot; has 22 methods, which is greater than 20 authorized. Split it into smaller classes." />
       <item value="赋值" />
@@ -51,15 +55,11 @@
       <item value="Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed." />
       <item value="config" />
       <item value="get Config Or Value" />
-      <item value="duplicate" />
-      <item value="重复" />
-      <item value="verify Resource URL" />
-      <item value="verify Resouce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="610" />
+        <entry key="CHINESE" value="612" />
+        <entry key="ENGLISH" value="613" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
