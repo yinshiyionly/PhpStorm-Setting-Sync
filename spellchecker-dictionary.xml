@@ -3,6 +3,7 @@
     <words>
       <w>appid</w>
       <w>errcode</w>
+      <w>miniprogram</w>
     </words>
   </component>
 </application>
