@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="externaluser has started chatting" />
       <item value="圆" />
       <item value="圆形" />
       <item value="续签" />
@@ -54,12 +55,11 @@
       <item value="customer Code" />
       <item value="一客一码" />
       <item value="environment" />
-      <item value="环境" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="622" />
-        <entry key="ENGLISH" value="622" />
+        <entry key="ENGLISH" value="623" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
