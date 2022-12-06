@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="查找" />
       <item value="field" />
       <item value="external" />
       <item value="BIZ" />
@@ -54,11 +55,10 @@
       <item value="quality" />
       <item value="HEIGHT" />
       <item value="Image source not readable" />
-      <item value="receive Record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="624" />
+        <entry key="CHINESE" value="625" />
         <entry key="ENGLISH" value="625" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
