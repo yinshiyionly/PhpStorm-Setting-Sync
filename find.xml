@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="所有位置" />
-    <option name="defaultScopeName" value="所有位置" />
-    <option name="SEARCH_SCOPE" value="所有位置" />
+    <option name="customScope" value="项目文件" />
+    <option name="defaultScopeName" value="项目文件" />
+    <option name="SEARCH_SCOPE" value="项目文件" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
