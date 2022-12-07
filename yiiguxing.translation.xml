@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="user directive makes sense only if the master process runs with super-user privileges" />
       <item value="[EA] This condition execution costs less than the previous one." />
       <item value="此" />
       <item value="skip verify" />
@@ -54,12 +55,11 @@
       <item value="员工头像" />
       <item value="Discovered package" />
       <item value="Discovered" />
-      <item value="字段" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="628" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="ENGLISH" value="628" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
