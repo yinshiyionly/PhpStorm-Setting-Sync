@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed." />
+      <item value="Remove this useless assignment to local variable 'result'." />
       <item value="Import complete 0 out of 0 element was imported." />
       <item value="detect Mime Type From Url" />
       <item value="get Punchout Background" />
@@ -53,12 +55,10 @@
       <item value="合成" />
       <item value="external User Id" />
       <item value="provider Suite Id" />
-      <item value="PushCustomerWelcomeMessage has been attempted too many times or run too long. The job may have previously timed out" />
-      <item value="channel Code Customer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="631" />
+        <entry key="CHINESE" value="633" />
         <entry key="ENGLISH" value="632" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
