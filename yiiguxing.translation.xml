@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Import complete 0 out of 0 element was imported." />
       <item value="detect Mime Type From Url" />
       <item value="get Punchout Background" />
       <item value="set Punchout Background" />
@@ -54,12 +55,11 @@
       <item value="provider Suite Id" />
       <item value="PushCustomerWelcomeMessage has been attempted too many times or run too long. The job may have previously timed out" />
       <item value="channel Code Customer" />
-      <item value="company Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="631" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
