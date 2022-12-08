@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="556" />
     <option name="newTranslationDialogX" value="739" />
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] Null pointer exception may occur here." />
+      <item value="Immediately return this expression instead of assigning it to the temporary variable &quot;result&quot;." />
       <item value="[EA] This condition execution costs less than the previous one." />
       <item value="Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed." />
       <item value="Remove this useless assignment to local variable 'result'." />
@@ -53,12 +55,10 @@
       <item value="统计" />
       <item value="Request received" />
       <item value="合成" />
-      <item value="external User Id" />
-      <item value="provider Suite Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="634" />
+        <entry key="CHINESE" value="636" />
         <entry key="ENGLISH" value="632" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
