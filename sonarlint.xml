@@ -1,5 +1,10 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="**/*.php" />
+      </list>
+    </option>
     <option name="rulesByKey">
       <map>
         <entry key="php:S103">
@@ -22,11 +27,6 @@
             <Rule active="false" key="php:S1135" />
           </value>
         </entry>
-        <entry key="php:S1757">
-          <value>
-            <Rule key="php:S1757" />
-          </value>
-        </entry>
         <entry key="php:S1779">
           <value>
             <Rule active="false" key="php:S1779" />
@@ -40,7 +40,6 @@
       <Rule active="false" key="php:S112" />
       <Rule active="false" key="php:S1135" />
       <Rule active="false" key="php:S1779" />
-      <Rule key="php:S1757" />
     </rules>
   </component>
 </application>
