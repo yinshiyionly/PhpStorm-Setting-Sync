@@ -75,4 +75,18 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1670403884287" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670556629486" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="COMPONENT CUBE TEMPLATE LEFT TWO RIGHT ONE" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
