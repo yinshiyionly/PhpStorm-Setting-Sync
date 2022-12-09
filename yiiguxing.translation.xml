@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="470" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Shell Commands at work" />
+      <item value="工作中" />
+      <item value="工作" />
+      <item value="Shell Commands For work" />
+      <item value="Shell Commands By Yourself" />
       <item value="[EA] Null pointer exception may occur here." />
       <item value="Immediately return this expression instead of assigning it to the temporary variable &quot;result&quot;." />
       <item value="[EA] This condition execution costs less than the previous one." />
@@ -50,16 +55,11 @@
       <item value="contact" />
       <item value="request Raw" />
       <item value="get Media Id By Image" />
-      <item value="create Format From Toolbar" />
-      <item value="count" />
-      <item value="统计" />
-      <item value="Request received" />
-      <item value="合成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="632" />
+        <entry key="CHINESE" value="638" />
+        <entry key="ENGLISH" value="637" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="ROMANIAN" value="4" />
