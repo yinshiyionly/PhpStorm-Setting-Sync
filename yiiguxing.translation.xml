@@ -80,12 +80,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Trying to access array offset on value of type null" />
       <item value="COMPONENT CUBE TEMPLATE LEFT TWO RIGHT ONE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
