@@ -84,6 +84,7 @@
     <option name="newTranslationDialogY" value="483" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="售后" />
       <item value="累计" />
       <item value="yearly" />
       <item value="每年" />
@@ -103,8 +104,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
