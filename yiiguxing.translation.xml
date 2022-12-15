@@ -79,11 +79,15 @@
     <option name="lastTrimTime" value="1670998129122" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="877" />
     <option name="newTranslationDialogY" value="483" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="consignee Mobile Suffix" />
+      <item value="买家" />
+      <item value="consignee" />
+      <item value="收件人" />
       <item value="售后" />
       <item value="累计" />
       <item value="yearly" />
@@ -104,8 +108,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
