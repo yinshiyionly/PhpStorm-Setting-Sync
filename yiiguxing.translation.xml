@@ -84,6 +84,7 @@
     <option name="newTranslationDialogY" value="483" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Time Search Field" />
       <item value="[EA] ': void' can be declared as return type hint." />
       <item value="[EA] '__construct' method can be dropped, as it only calls parent's one." />
       <item value="customer Services State" />
@@ -114,7 +115,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
