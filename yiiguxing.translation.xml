@@ -84,6 +84,7 @@
     <option name="newTranslationDialogY" value="483" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="REFUND" />
       <item value="consignee Mobile Suffix" />
       <item value="买家" />
       <item value="consignee" />
@@ -109,7 +110,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
