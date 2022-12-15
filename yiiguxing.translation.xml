@@ -84,6 +84,10 @@
     <option name="newTranslationDialogY" value="483" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] ': void' can be declared as return type hint." />
+      <item value="[EA] '__construct' method can be dropped, as it only calls parent's one." />
+      <item value="customer Services State" />
+      <item value="customer Services" />
       <item value="REFUND" />
       <item value="consignee Mobile Suffix" />
       <item value="买家" />
@@ -109,8 +113,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
