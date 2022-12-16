@@ -84,6 +84,7 @@
     <option name="newTranslationDialogY" value="483" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Add a where constraint to a relationship." />
       <item value="mixed Search" />
       <item value="key Words" />
       <item value="get Time Search Field" />
@@ -116,8 +117,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
