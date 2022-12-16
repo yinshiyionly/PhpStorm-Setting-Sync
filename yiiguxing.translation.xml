@@ -84,6 +84,11 @@
     <option name="newTranslationDialogY" value="483" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="DESCRIPTION" />
+      <item value="没有" />
+      <item value="HAS" />
+      <item value="ORDER LIST FILTER SHOW MESSAGE YES" />
+      <item value="ORDER LIST FILTER SHOW MESSAGE NO" />
       <item value="mixed Search" />
       <item value="Add a where constraint to a relationship." />
       <item value="key Words" />
@@ -117,8 +122,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
       </map>
     </option>
   </component>
