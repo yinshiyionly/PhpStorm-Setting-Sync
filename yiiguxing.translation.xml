@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead" />
       <item value="[EA] Exposes a connection to MITM attacks. Use true (default) to stay safe." />
       <item value="pack Data" />
       <item value="develop" />
@@ -134,12 +135,11 @@
       <item value="mixed Search" />
       <item value="Add a where constraint to a relationship." />
       <item value="key Words" />
-      <item value="get Time Search Field" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
