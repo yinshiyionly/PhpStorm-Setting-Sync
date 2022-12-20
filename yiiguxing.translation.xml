@@ -79,11 +79,12 @@
     <option name="lastTrimTime" value="1671442972975" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="877" />
-    <option name="newTranslationDialogY" value="483" />
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="1286" />
+    <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] settingValue['flag'] is immediately overridden, perhaps it was intended to use 'else' here." />
       <item value="[EA] This condition execution costs less than the previous one." />
       <item value="已关闭" />
       <item value="已完成" />
@@ -133,11 +134,10 @@
       <item value="RESTRICT ACCOUNT LIMIT RULE" />
       <item value="purchase limit" />
       <item value="商品限购" />
-      <item value="限制" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
+        <entry key="CHINESE" value="51" />
         <entry key="ENGLISH" value="49" />
       </map>
     </option>
