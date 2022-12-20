@@ -4,6 +4,7 @@
       <w>appid</w>
       <w>errcode</w>
       <w>miniprogram</w>
+      <w>unionid</w>
     </words>
   </component>
 </application>
