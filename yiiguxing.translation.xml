@@ -84,6 +84,11 @@
     <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="卖家" />
+      <item value="sale" />
+      <item value="saler" />
+      <item value="get Applet Name By Auth Id" />
+      <item value="get Applete Name By Auth Id" />
       <item value="applet Name" />
       <item value="小程序名称" />
       <item value="sent At" />
@@ -129,16 +134,12 @@
       <item value="consignee Mobile Suffix" />
       <item value="买家" />
       <item value="consignee" />
-      <item value="收件人" />
-      <item value="售后" />
-      <item value="累计" />
-      <item value="yearly" />
-      <item value="每年" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="60" />
+        <entry key="FRENCH" value="2" />
       </map>
     </option>
   </component>
