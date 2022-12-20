@@ -84,6 +84,7 @@
     <option name="newTranslationDialogY" value="483" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] This condition execution costs less than the previous one." />
       <item value="已关闭" />
       <item value="已完成" />
       <item value="refunding" />
@@ -133,11 +134,10 @@
       <item value="purchase limit" />
       <item value="商品限购" />
       <item value="限制" />
-      <item value="tomorrow Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
+        <entry key="CHINESE" value="50" />
         <entry key="ENGLISH" value="49" />
       </map>
     </option>
