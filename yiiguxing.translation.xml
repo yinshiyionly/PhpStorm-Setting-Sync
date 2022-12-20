@@ -84,6 +84,8 @@
     <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="applet Name" />
+      <item value="小程序名称" />
       <item value="sent At" />
       <item value="gender" />
       <item value="integral" />
@@ -132,13 +134,11 @@
       <item value="累计" />
       <item value="yearly" />
       <item value="每年" />
-      <item value="每季" />
-      <item value="monthly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
