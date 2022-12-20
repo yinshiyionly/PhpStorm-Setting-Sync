@@ -84,9 +84,10 @@
     <option name="newTranslationDialogY" value="483" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="wait logistics" />
+      <item value="发货" />
       <item value="logistics" />
       <item value="wait Ship" />
-      <item value="发货" />
       <item value="wait Pay" />
       <item value="get Order State By List Filter" />
       <item value="get Order State Filter" />
@@ -132,8 +133,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
