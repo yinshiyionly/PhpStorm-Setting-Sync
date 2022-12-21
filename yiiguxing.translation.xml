@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] Please add roavesecurity-advisories:dev-latest into require-dev as a firewall for vulnerable components." />
       <item value="curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead" />
       <item value="[EA] Exposes a connection to MITM attacks. Use true (default) to stay safe." />
       <item value="pack Data" />
@@ -134,11 +135,10 @@
       <item value="ORDER LIST FILTER SHOW MESSAGE NO" />
       <item value="mixed Search" />
       <item value="Add a where constraint to a relationship." />
-      <item value="key Words" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
+        <entry key="CHINESE" value="72" />
         <entry key="ENGLISH" value="72" />
         <entry key="FRENCH" value="2" />
       </map>
