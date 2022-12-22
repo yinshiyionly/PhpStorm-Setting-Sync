@@ -138,8 +138,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
