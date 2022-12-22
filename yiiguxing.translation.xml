@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] data is immediately overridden, please check this code fragment." />
       <item value="decrypt" />
       <item value="Weight" />
       <item value="DEFAULT PLATFORM ID" />
@@ -134,12 +135,11 @@
       <item value="wait Ship" />
       <item value="wait Pay" />
       <item value="get Order State By List Filter" />
-      <item value="get Order State Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="83" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
