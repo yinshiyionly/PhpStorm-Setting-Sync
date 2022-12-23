@@ -85,6 +85,25 @@
     <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="regex" />
+      <item value="正整数" />
+      <item value="order Setting Save" />
+      <item value="买家" />
+      <item value="seller" />
+      <item value="close Seller Refund Channel" />
+      <item value="close Sellerrefund" />
+      <item value="close Seller" />
+      <item value="order Auto Receive" />
+      <item value="收" />
+      <item value="签收" />
+      <item value="order Auto Receipt" />
+      <item value="收货" />
+      <item value="order Pay Expire" />
+      <item value="Order is overdue" />
+      <item value="订单超时未支付" />
+      <item value="order Expire Close Time" />
+      <item value="order Expire Close" />
+      <item value="超时" />
       <item value="SHOP FILL INTEGER VALUE" />
       <item value="填充" />
       <item value="source miniprogram appid" />
@@ -116,31 +135,13 @@
       <item value="卖家" />
       <item value="sale" />
       <item value="saler" />
-      <item value="get Applet Name By Auth Id" />
-      <item value="get Applete Name By Auth Id" />
-      <item value="applet Name" />
-      <item value="小程序名称" />
-      <item value="sent At" />
-      <item value="gender" />
-      <item value="integral" />
-      <item value="product poster" />
-      <item value="goods Item" />
-      <item value="SHOP PAGE PROMOTE" />
-      <item value="[EA] settingValue['flag'] is immediately overridden, perhaps it was intended to use 'else' here." />
-      <item value="[EA] This condition execution costs less than the previous one." />
-      <item value="已关闭" />
-      <item value="已完成" />
-      <item value="refunding" />
-      <item value="refund" />
-      <item value="售后中" />
-      <item value="logistics" />
-      <item value="已发货" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="FRENCH" value="2" />
+        <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
