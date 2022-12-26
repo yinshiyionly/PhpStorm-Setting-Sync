@@ -85,6 +85,8 @@
     <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="sale" />
+      <item value="sale Price" />
       <item value="memo" />
       <item value="august" />
       <item value="febnary" />
@@ -133,13 +135,11 @@
       <item value="app Name" />
       <item value="环境" />
       <item value="consignee" />
-      <item value="收货人" />
-      <item value="Receiver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
