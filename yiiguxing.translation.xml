@@ -85,6 +85,23 @@
     <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="REFUND" />
+      <item value="部分" />
+      <item value="物流" />
+      <item value="Logistics" />
+      <item value="Logistics'" />
+      <item value="UNSHAPED" />
+      <item value="发货" />
+      <item value="PAYED" />
+      <item value="已付款代发货" />
+      <item value="TRADE STATUS WAIT PAY" />
+      <item value="待付款" />
+      <item value="未确认" />
+      <item value="确认" />
+      <item value="TRADE" />
+      <item value="platform" />
+      <item value="order State To Platform Order State" />
+      <item value="order State 2 Platform Order State" />
       <item value="receiver" />
       <item value="sale" />
       <item value="sale Price" />
@@ -118,28 +135,11 @@
       <item value="反馈" />
       <item value="[EA] data is immediately overridden, please check this code fragment." />
       <item value="decrypt" />
-      <item value="Weight" />
-      <item value="DEFAULT PLATFORM ID" />
-      <item value="_check Authorization State" />
-      <item value="是否" />
-      <item value="新增编辑" />
-      <item value="store" />
-      <item value="fillable" />
-      <item value="props" />
-      <item value="备用" />
-      <item value="扩展" />
-      <item value="[EA] Please add roavesecurity-advisories:dev-latest into require-dev as a firewall for vulnerable components." />
-      <item value="curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead" />
-      <item value="[EA] Exposes a connection to MITM attacks. Use true (default) to stay safe." />
-      <item value="pack Data" />
-      <item value="develop" />
-      <item value="app Name" />
-      <item value="环境" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
