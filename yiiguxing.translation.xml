@@ -76,7 +76,7 @@
     <option name="lastTrimTime" value="1670403884287" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671442972975" />
+    <option name="lastTrimTime" value="1672021129286" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="memo" />
       <item value="august" />
       <item value="febnary" />
       <item value="regex" />
@@ -134,12 +135,11 @@
       <item value="consignee" />
       <item value="收货人" />
       <item value="Receiver" />
-      <item value="卖家" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
