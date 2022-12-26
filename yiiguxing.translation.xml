@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="SHOP FILL INTEGER VALUE" />
       <item value="REFUND" />
       <item value="部分" />
       <item value="物流" />
@@ -127,7 +128,6 @@
       <item value="order Expire Close Time" />
       <item value="order Expire Close" />
       <item value="超时" />
-      <item value="SHOP FILL INTEGER VALUE" />
       <item value="填充" />
       <item value="source miniprogram appid" />
       <item value="[EA] 'time()' is default valued already, it can safely be removed." />
@@ -138,8 +138,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
