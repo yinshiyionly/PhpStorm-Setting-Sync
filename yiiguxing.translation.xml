@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="290" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="minutes" />
       <item value="minute" />
       <item value="SHOP FILL INTEGER VALUE" />
       <item value="REFUND" />
@@ -134,12 +135,11 @@
       <item value="[EA] 'time()' is default valued already, it can safely be removed." />
       <item value="feedback" />
       <item value="反馈" />
-      <item value="[EA] data is immediately overridden, please check this code fragment." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
