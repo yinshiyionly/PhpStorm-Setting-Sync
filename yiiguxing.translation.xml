@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="january" />
       <item value="label" />
       <item value="[EA] Resolved operands types are not complimentary, while they should be ([int] vs [array])." />
       <item value="sync Goods" />
@@ -134,12 +135,11 @@
       <item value="order Expire Close Time" />
       <item value="order Expire Close" />
       <item value="超时" />
-      <item value="填充" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
