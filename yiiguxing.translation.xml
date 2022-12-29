@@ -85,6 +85,11 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="领取" />
+      <item value="领取人" />
+      <item value="序列" />
+      <item value="redpackage" />
+      <item value="公众号" />
       <item value="一维" />
       <item value="sub Type" />
       <item value="subtype" />
@@ -130,16 +135,11 @@
       <item value="close Seller Refund Channel" />
       <item value="close Sellerrefund" />
       <item value="close Seller" />
-      <item value="order Auto Receive" />
-      <item value="收" />
-      <item value="签收" />
-      <item value="order Auto Receipt" />
-      <item value="收货" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="136" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
