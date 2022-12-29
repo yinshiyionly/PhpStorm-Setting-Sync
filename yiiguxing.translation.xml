@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="notify" />
       <item value="领取" />
       <item value="领取人" />
       <item value="序列" />
@@ -134,12 +135,11 @@
       <item value="seller" />
       <item value="close Seller Refund Channel" />
       <item value="close Sellerrefund" />
-      <item value="close Seller" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
