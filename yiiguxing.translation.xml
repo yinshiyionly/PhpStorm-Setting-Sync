@@ -85,6 +85,9 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="_is Receive Sequence" />
+      <item value="is Receive Sequnce" />
+      <item value="是否领取过" />
       <item value="Official Account Event Subscribe" />
       <item value="receive Sequence Code" />
       <item value="receive" />
@@ -132,14 +135,11 @@
       <item value="sale" />
       <item value="sale Price" />
       <item value="memo" />
-      <item value="august" />
-      <item value="febnary" />
-      <item value="regex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
