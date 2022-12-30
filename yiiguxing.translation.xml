@@ -80,11 +80,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="1250" />
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="OFFIFIAL ACCOUNT" />
       <item value="_handle Click Event Red Package" />
       <item value="OFFICIAL ACCOUNT MENU MINI PROGRAM APPID" />
       <item value="提示语" />
@@ -134,11 +135,10 @@
       <item value="TRADE" />
       <item value="platform" />
       <item value="order State To Platform Order State" />
-      <item value="order State 2 Platform Order State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
+        <entry key="CHINESE" value="147" />
         <entry key="ENGLISH" value="147" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
