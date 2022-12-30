@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="提示语" />
       <item value="is User Exists" />
       <item value="_is Receive Sequence" />
       <item value="is Receive Sequnce" />
@@ -134,11 +135,10 @@
       <item value="order State 2 Platform Order State" />
       <item value="receiver" />
       <item value="sale" />
-      <item value="sale Price" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
+        <entry key="CHINESE" value="145" />
         <entry key="ENGLISH" value="145" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
