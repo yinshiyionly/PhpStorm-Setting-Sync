@@ -85,6 +85,10 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="下单时间" />
+      <item value="seller Descrition" />
+      <item value="get Seller Remark" />
+      <item value="get Seller" />
       <item value="time Search Field" />
       <item value="OFFICIAL ACCOUNT AUTO REPLY MESSAGE" />
       <item value="_handle Auto Reply" />
@@ -131,15 +135,11 @@
       <item value="发货" />
       <item value="PAYED" />
       <item value="已付款代发货" />
-      <item value="TRADE STATUS WAIT PAY" />
-      <item value="待付款" />
-      <item value="未确认" />
-      <item value="确认" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="153" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
