@@ -85,6 +85,11 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="refund Fail" />
+      <item value="wait Logistics" />
+      <item value="wait Seller Handle" />
+      <item value="wait Seller Process" />
+      <item value="wait Seller" />
       <item value="primary Key Id" />
       <item value="求和" />
       <item value="下单时间" />
@@ -130,16 +135,11 @@
       <item value="SHOP FILL INTEGER VALUE" />
       <item value="REFUND" />
       <item value="部分" />
-      <item value="物流" />
-      <item value="Logistics" />
-      <item value="Logistics'" />
-      <item value="UNSHAPED" />
-      <item value="发货" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
