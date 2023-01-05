@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="_check Shop Page Index" />
       <item value="commission rate" />
       <item value="[EA] Wrap constructs' body within a block (PSR-12 recommendations)." />
       <item value="[EA] Resolved operands types are not complimentary, while they should be ([bool] vs [int])." />
@@ -134,7 +135,6 @@
       <item value="sync Goods" />
       <item value="ERP Sync Goods" />
       <item value="minutes" />
-      <item value="minute" />
     </histories>
     <option name="languageScores">
       <map>
