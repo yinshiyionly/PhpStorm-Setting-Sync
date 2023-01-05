@@ -85,6 +85,8 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] Wrap constructs' body within a block (PSR-12 recommendations)." />
+      <item value="[EA] Resolved operands types are not complimentary, while they should be ([bool] vs [int])." />
       <item value="refund Fail" />
       <item value="wait Logistics" />
       <item value="wait Seller Handle" />
@@ -133,12 +135,10 @@
       <item value="minutes" />
       <item value="minute" />
       <item value="SHOP FILL INTEGER VALUE" />
-      <item value="REFUND" />
-      <item value="部分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
+        <entry key="CHINESE" value="161" />
         <entry key="ENGLISH" value="160" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
