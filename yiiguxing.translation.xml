@@ -76,7 +76,7 @@
     <option name="lastTrimTime" value="1670403884287" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672729412415" />
+    <option name="lastTrimTime" value="1673231838480" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="OFFICIAL ACCOUNT HINT MESSAGE ALWAYS" />
       <item value="密文" />
       <item value="encrypt" />
       <item value="_check Sku Code Unique" />
@@ -134,12 +135,11 @@
       <item value="序列" />
       <item value="redpackage" />
       <item value="公众号" />
-      <item value="一维" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
