@@ -85,6 +85,9 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="随机" />
+      <item value="打乱" />
+      <item value="字母" />
       <item value="可以用" />
       <item value="可用" />
       <item value="没有" />
@@ -132,14 +135,11 @@
       <item value="get Seller Remark" />
       <item value="get Seller" />
       <item value="time Search Field" />
-      <item value="OFFICIAL ACCOUNT AUTO REPLY MESSAGE" />
-      <item value="_handle Auto Reply" />
-      <item value="OFFIFIAL ACCOUNT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
