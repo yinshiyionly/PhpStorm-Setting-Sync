@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Project Default" />
   <component name="EditorSettings">
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
