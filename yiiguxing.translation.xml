@@ -80,11 +80,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="1250" />
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] Please ensure this is not a forgotten debug statement." />
       <item value="[EA] New value type (string) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="NAVIGATE" />
       <item value="跳转" />
@@ -134,11 +135,10 @@
       <item value="primary Key Id" />
       <item value="求和" />
       <item value="下单时间" />
-      <item value="seller Descrition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
+        <entry key="CHINESE" value="197" />
         <entry key="ENGLISH" value="196" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
