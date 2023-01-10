@@ -85,6 +85,8 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="sale stock" />
+      <item value="available stock" />
       <item value="[EA] Please ensure this is not a forgotten debug statement." />
       <item value="[EA] New value type (string) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="NAVIGATE" />
@@ -133,13 +135,11 @@
       <item value="wait Seller Process" />
       <item value="wait Seller" />
       <item value="primary Key Id" />
-      <item value="求和" />
-      <item value="下单时间" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="ENGLISH" value="198" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
