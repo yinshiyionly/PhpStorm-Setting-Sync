@@ -80,11 +80,16 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="1250" />
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="available Stock" />
+      <item value="_check Sku Code Unique" />
+      <item value="available" />
+      <item value="availble" />
+      <item value="get Availble Stock" />
       <item value="sale stock" />
       <item value="available stock" />
       <item value="[EA] Please ensure this is not a forgotten debug statement." />
@@ -116,7 +121,6 @@
       <item value="OFFICIAL ACCOUNT HINT MESSAGE ALWAYS" />
       <item value="密文" />
       <item value="encrypt" />
-      <item value="_check Sku Code Unique" />
       <item value="_check Sku Code" />
       <item value="取消" />
       <item value="specs Key" />
@@ -131,15 +135,11 @@
       <item value="[EA] Resolved operands types are not complimentary, while they should be ([bool] vs [int])." />
       <item value="refund Fail" />
       <item value="wait Logistics" />
-      <item value="wait Seller Handle" />
-      <item value="wait Seller Process" />
-      <item value="wait Seller" />
-      <item value="primary Key Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
