@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[EA] New value type (string) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="NAVIGATE" />
       <item value="跳转" />
       <item value="随机" />
@@ -134,11 +135,10 @@
       <item value="求和" />
       <item value="下单时间" />
       <item value="seller Descrition" />
-      <item value="get Seller Remark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
+        <entry key="CHINESE" value="196" />
         <entry key="ENGLISH" value="196" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
