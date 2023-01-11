@@ -85,6 +85,9 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="one Dimensional" />
+      <item value="round" />
+      <item value="rand" />
       <item value="[EA] This type casting is not necessary, as the argument is of needed type." />
       <item value="available Stock" />
       <item value="_check Sku Code Unique" />
@@ -132,14 +135,11 @@
       <item value="get Shop Page Component List By Sub Type" />
       <item value="_check Shop Page Index" />
       <item value="commission rate" />
-      <item value="[EA] Wrap constructs' body within a block (PSR-12 recommendations)." />
-      <item value="[EA] Resolved operands types are not complimentary, while they should be ([bool] vs [int])." />
-      <item value="refund Fail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="205" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
