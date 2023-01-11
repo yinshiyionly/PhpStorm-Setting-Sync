@@ -85,6 +85,7 @@
     <option name="newTranslationDialogY" value="296" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="encrypt" />
       <item value="[EA] Could provoke a PHP Fatal error ([] operator not supported for strings)." />
       <item value="with Chain" />
       <item value="one Dimensional" />
@@ -126,7 +127,6 @@
       <item value="OFFICIAL ACCOUNT RED PACKAGE" />
       <item value="OFFICIAL ACCOUNT HINT MESSAGE ALWAYS" />
       <item value="密文" />
-      <item value="encrypt" />
       <item value="_check Sku Code" />
       <item value="取消" />
       <item value="specs Key" />
@@ -139,7 +139,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
